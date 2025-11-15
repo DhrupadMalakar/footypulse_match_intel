@@ -1,0 +1,30 @@
+{
+  "match_id": "DEMO123",
+  "teams": [
+    "Red FC",
+    "Blue FC"
+  ],
+  "players": [
+    {
+      "name": "Alex Smith",
+      "team": "Red FC",
+      "goals": 2,
+      "assists": 1,
+      "cards": 0
+    },
+    {
+      "name": "Jordan Lee",
+      "team": "Red FC",
+      "goals": 0,
+      "assists": 1,
+      "cards": 1
+    },
+    {
+      "name": "Marco Silva",
+      "team": "Blue FC",
+      "goals": 1,
+      "assists": 0,
+      "cards": 0
+    }
+  ]
+}

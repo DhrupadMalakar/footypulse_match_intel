@@ -1,0 +1,28 @@
+[
+  {
+    "type": "reddit_fetch",
+    "num_comments": 5
+  },
+  {
+    "type": "sentiment_summary",
+    "positive": 3,
+    "negative": 1,
+    "neutral": 1
+  },
+  {
+    "type": "player_impact",
+    "top_players": [
+      "Alex Smith",
+      "Marco Silva",
+      "Jordan Lee"
+    ]
+  },
+  {
+    "type": "match_summary",
+    "summary": "Fan mood was overall positive, based on 5 comments. The standout player was Alex Smith for Red FC, with an impact score of 9."
+  },
+  {
+    "type": "report_created",
+    "path": "outputs/reports/demo_match_report.md"
+  }
+]

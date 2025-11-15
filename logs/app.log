@@ -1,0 +1,15 @@
+2025-11-15 17:35:44,172 - footypulse - INFO - Logging initialized
+2025-11-15 17:35:44,172 - footypulse - INFO - Starting FootyPulse pipeline
+2025-11-15 17:35:44,173 - footypulse - INFO - Running Reddit Data Fetch Agent
+2025-11-15 17:35:44,173 - footypulse - INFO - RedditDataAgent: loading sample data from file
+2025-11-15 17:35:44,173 - footypulse - INFO - RedditDataAgent: loaded 5 comments
+2025-11-15 17:35:44,173 - footypulse - INFO - Running Sentiment Analysis Agent
+2025-11-15 17:35:44,173 - footypulse - INFO - SentimentAnalysisAgent: scored 5 comments
+2025-11-15 17:35:44,174 - footypulse - INFO - Running Player Impact Agent
+2025-11-15 17:35:44,174 - footypulse - INFO - PlayerImpactAgent: computed impact for 3 players
+2025-11-15 17:35:44,174 - footypulse - INFO - Running Match Summary Agent
+2025-11-15 17:35:44,175 - footypulse - INFO - MatchSummaryAgent: created summary
+2025-11-15 17:35:44,176 - footypulse - INFO - Running Report Generator Agent
+2025-11-15 17:35:44,177 - footypulse - INFO - ReportGeneratorAgent: report written to outputs/reports/demo_match_report.md
+2025-11-15 17:35:44,178 - footypulse - INFO - FootyPulse pipeline completed
+2025-11-15 17:35:44,178 - footypulse - INFO - Report generated at: outputs/reports/demo_match_report.md
